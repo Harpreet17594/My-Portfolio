@@ -165,7 +165,7 @@
     min-height: 600px;
     /* height: 20vh; */
     grid-template-columns: 50% 50%;
-    grid-template-rows:300px 50%;
+    grid-template-rows:400px 25% 25%;
     grid-template-areas: "nested-div1 nested-div1"
                         "nested-div2 nested-div3"
                         "nested-div4 nested-div5";
@@ -501,13 +501,14 @@
             margin-left: 50px;
             border-bottom: 2px solid black;
             width: fit-content;
+            font-size: 5px;
         }
         
         
         .footer-item1, .footer-item2, .footer-item3,.footer-item4,.footer-item5{
             width: fit-content;
             border-bottom: none;
-            font-size: 5px;
+            
             /* margin-left: 150px; */
 
             
