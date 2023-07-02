@@ -162,10 +162,10 @@
     /* code for sub parent div main */
     width: 100%;
     display: grid;
-    min-height: 800px;
+    min-height: 600px;
     /* height: 20vh; */
     grid-template-columns: 50% 50%;
-    grid-template-rows:500px 50%;
+    grid-template-rows:300px 50%;
     grid-template-areas: "nested-div1 nested-div1"
                         "nested-div2 nested-div3"
                         "nested-div4 nested-div5";
