@@ -14,7 +14,7 @@
     grid-template-areas:"con-div1 con-div2";
     align-items: end;
     justify-content: right;
- 
+  
 }
 .con-div1{
     grid-area: con-div1;
