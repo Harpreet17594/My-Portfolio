@@ -500,20 +500,20 @@
             border-bottom: none;
             margin-left: 50px;
             border-bottom: 2px solid black;
-
+            width: fit-content;
         }
         
         
         .footer-item1, .footer-item2, .footer-item3,.footer-item4,.footer-item5{
             width: fit-content;
             border-bottom: none;
+            font-size: 5px;
             /* margin-left: 150px; */
 
             
         }
         
 }
-
 
 
 

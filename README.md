@@ -39,8 +39,8 @@ Hii , I am Harpreet kaur.I am basically from Punjab (India).I get married in 202
 ## 3. Contact me
         Mobile number : +44 7733513586
         Gmail : harpreetvirdi17594@gmail.com
-        Github URL : https://github.com/Harpreet17594/Portfolio
-        Portfolio webpage Link : https://harpreet17594.github.io/Portfolio/
+        Github URL : https://github.com/Harpreet17594/My-Portfolio
+        Portfolio webpage Link : https://harpreet17594.github.io/My-Portfolio/
  
 
 
