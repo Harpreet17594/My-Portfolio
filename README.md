@@ -4,10 +4,10 @@ Hii , I am Harpreet kaur.I am basically from Punjab (India).I get married in 202
 
 
 ## Link to github repository
-    https://github.com/Harpreet17594/Portfolio
+    https://github.com/Harpreet17594/My-Portfolio
 
 ## Link to deployed application
-    https://harpreet17594.github.io/Portfolio/
+    https://harpreet17594.github.io/My-Portfolio/
 
 ***
 
